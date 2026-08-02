@@ -1,0 +1,6 @@
+{
+  "name": "SurveyCAD",
+  "description": "Plotting & analysis app for PENZ survey data with CAD canvas, map view, geometric calculations, and layer management",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
